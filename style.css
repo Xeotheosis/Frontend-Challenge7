@@ -127,6 +127,14 @@ h2{
 
 @media  screen and (min-width:950px) {
 
+    body{
+        background:url(/images/pattern-background-desktop.svg);
+        background-position: top;
+        background-size:100% auto;
+        background-repeat: no-repeat;
+        background-color: var(--pale-blue);
+    }
+
     main{
         width:45rem;
     }
